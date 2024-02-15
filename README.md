@@ -13,7 +13,7 @@
 |---|---|---|
 
 - ⚡ Fun fact:
-- - I had the honor of being a part of the Italian Major Athletics National Team, competing as a 400m runner 🇮🇹
+- I had the honor of being a part of the Italian Major Athletics National Team, competing as a 400m runner 🇮🇹
 - Experience in implementing HFT machines for market making and developing trading systems using Python
   
 - 💬 Ask me about: Finance, Investments, Crypto, Machine learning, Statistics
