@@ -16,3 +16,5 @@
                - Experience in implementing HFT machines for market making and developing trading systems using Python
   
 - 💬 Ask me about: Finance, Investments, Crypto, Machine learning, Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact)
