@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Senior Data Scientist @ an international scientific publisher, in Basel 🇨🇭
 
 - 📚 MU1 - First Level University Master - Business Intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
-- 📚 MSc - Bachelor of Science - Statistics (Insurance and Financial Markets) @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
+- 📚 MSc - Master of Science - Statistics (Insurance and Financial Markets) @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
 - 📚 BSc - Bachelor of Science - Statistics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
 
 - 📫 How to reach me:
