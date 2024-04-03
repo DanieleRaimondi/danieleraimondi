@@ -1,8 +1,12 @@
 ### Hello! 👋
 
+- Work experiences:
+- Senior Data Scientist @ <a href="https://www.mdpi.com/"> MDPI </a>, in Basel 🇨🇭 (Current Job)
+- Lead Data Scientist @ <a href="https://www.esselunga.it/it-it/homepage.html"> ESSELUNGA </a>, in Milan 🇮🇹
+- Finance and Risk Analyst @ <a href="https://www.accenture.com/us-en"> ACCENTURE </a>, in Milan 🇮🇹
+- Risk Management Analyst @ <a href="https://www.fiditalia.it/"> FIDITALIA </a>, in Milan 🇮🇹
 
-- 🔭 I’m currently working as Senior Data Scientist @ <a href="https://www.mdpi.com/"> MDPI </a>, in Basel 🇨🇭
-
+- Education:
 - 📚 MU1 - First Level University Master - Business Intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
 - 📚 MSc - Master of Science - Statistics (Insurance and Financial Markets) @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
 - 📚 BSc - Bachelor of Science - Statistics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
