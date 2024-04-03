@@ -1,5 +1,8 @@
 ## Hello! 👋
 
+My name is Daniele and I am very passionate with Data Science, Finance and Crypto.
+Hope you will enjoy my repos! 😊
+
 ### - Work experiences:
 - Senior Data Scientist @ an international scientific publisher, in Basel 🇨🇭 (Current Job)
 - Lead Data Scientist @ <a href="https://www.esselunga.it/it-it/homepage.html"> ESSELUNGA </a>, in Milan 🇮🇹
