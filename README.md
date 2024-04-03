@@ -5,9 +5,9 @@ Hope you will enjoy my repos! 😊
 
 ### - Work experiences:
 - Senior Data Scientist @ <a href="https://www.mdpi.com/"> MDPI </a>, in Basel 🇨🇭 (Current Job)
-- Lead Data Scientist @ <a href="https://www.esselunga.it/it-it/homepage.html"> ESSELUNGA </a>, in Milan 🇮🇹
-- Finance and Risk Analyst @ <a href="https://www.accenture.com/us-en"> ACCENTURE </a>, in Milan 🇮🇹
-- Risk Management Analyst @ <a href="https://www.fiditalia.it/"> FIDITALIA </a>, in Milan 🇮🇹
+- Lead Data Scientist @ <a href="https://www.esselunga.it/it-it/homepage.html"> Esselunga </a>, in Milan 🇮🇹
+- Finance and Risk Analyst @ <a href="https://www.accenture.com/us-en"> Accenture </a>, in Milan 🇮🇹
+- Risk Management Analyst @ <a href="https://www.fiditalia.it/"> Fiditalia </a>, in Milan 🇮🇹
 
 ### - Education:
 - 📚 MU1 - First Level University Master - Business Intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
