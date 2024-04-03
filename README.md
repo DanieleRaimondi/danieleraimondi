@@ -19,6 +19,7 @@
 - 💬 Ask me about: Finance, Investments, Crypto, Machine learning, Statistics
   
 ### How about some stats ?
+[![](https://visitcount.itsvg.in/api?id=4hundreds&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ![Daniele's github stats](https://github-readme-stats.vercel.app/api?username=DanieleRaimondi&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact)
 ![Gists](https://gists-readme.yizack.com/api?user=DanieleRaimondi)
