@@ -25,4 +25,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact)
 
-![Gists](https://gists-readme.yizack.com/api?user=DanieleRaimondi)
