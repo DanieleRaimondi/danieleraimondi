@@ -4,7 +4,7 @@ My name is Daniele and I am very passionate with Data Science, Finance and Crypt
 Hope you will enjoy my repos! 😊
 
 ### - Work experiences:
-- 📊 Senior Data Scientist @ <a href="https://www.mdpi.com/"> MDPI </a>, in Basel 🇨🇭 2023-current
+- 📊 Senior Data Scientist @ <a href="https://www.mdpi.com/"> MDPI </a>, in Basel 🇨🇭 , 2023-current
 - 📈 Lead Data Scientist @ <a href="https://www.esselunga.it/it-it/homepage.html"> Esselunga </a>, in Milan 🇮🇹 , 2017-2023
 - 🎲 Finance and Risk Analyst @ <a href="https://www.accenture.com/us-en"> Accenture </a>, in Milan 🇮🇹 , 2017
 - 🪄 Risk Management Analyst @ <a href="https://www.fiditalia.it/"> Fiditalia </a>, in Milan 🇮🇹 , 2016-2017
