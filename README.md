@@ -1,3 +1,5 @@
+![Banner](https://github.com/DanieleRaimondi/danieleraimondi/blob/f02a7427213cbd61d9a04e9df84c060bf7130103/banner.png)
+
 ## Hello! 👋
 
 My name is Daniele and I am very passionate with Data Science, Finance and Crypto.
