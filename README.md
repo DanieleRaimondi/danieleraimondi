@@ -45,8 +45,10 @@ Hope you will enjoy my repos! 😊
 
 ## How about some stats?
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=DanieleRaimondi&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=DanieleRaimondi&label=Profile%20Views&color=0e75b6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-![Daniele's github stats](https://github-readme-stats.vercel.app/api?username=DanieleRaimondi&show_icons=true&theme=default)
+![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleRaimondi&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact&theme=default&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanieleRaimondi&theme=default&hide_border=false)
