@@ -21,10 +21,11 @@ Hope you will enjoy my repos! 😊
 
 ---
 
-## List of projects:
+## List of some projects:
 - [Bitcoin DataScience](https://github.com/DanieleRaimondi/bitcoin_datascience) > Data Science projects I created on Bitcoin
 - [Betting Exchange Scrapers](https://github.com/DanieleRaimondi/Betting_Livescore_Scrapers) > Scraping both odds from a Betting Exchange and statistics + comments of football live matches
 - [Sentiment Analysis Bitcoin](https://github.com/DanieleRaimondi/Sentiment_Analysis_Bitcoin) > NLP Project about Bitcoin's Sentiment, to understand in advance when the market will reverse
+- [Music Classifier](https://github.com/DanieleRaimondi/MusicClassifier) > Pipeline for handcrafted music embeddings, genre classification with SHAP, and similarity search on an Italodance/Trance dataset.
 
 ---
 
