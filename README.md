@@ -49,13 +49,13 @@ International stages, from data communities to institutions.
 ## 💼 Experience
 
 - 📊 **Senior Data Scientist** @ [MDPI](https://www.mdpi.com/), Basel 🇨🇭 · *2023–present*
-  `<br/>`Own roadmap & delivery of ML/LLM products: multimillion-record semantic tagging, ontology-based graph clustering, production pipelines with Azure OpenAI, Qdrant & Prefect.
+  <br/>Own roadmap & delivery of ML/LLM products: multimillion-record semantic tagging, ontology-based graph clustering, production pipelines with Azure OpenAI, Qdrant & Prefect.
 - 📈 **Lead Data Scientist** @ [Esselunga](https://www.esselunga.it/), Milan 🇮🇹 · *2017–2023*
-  `<br/>`Data science across a multi-billion-euro retailer: **+3% revenue & margin**, **−20% churn** on 6M+ customers, **+15% CLV**, **90%+** workflow automation.
+  <br/>Data science across a multi-billion-euro retailer: **+3% revenue & margin**, **−20% churn** on 6M+ customers, **+15% CLV**, **90%+** workflow automation.
 - 🎲 **Finance & Risk Analyst** @ [Accenture](https://www.accenture.com/), Milan 🇮🇹 · *2017*
-  `<br/>`Quantitative consulting for banking clients (SPSS, SAS, Python).
+  <br/>Quantitative consulting for banking clients (SPSS, SAS, Python).
 - 🪄 **Risk Management Analyst** @ [Fiditalia](https://www.fiditalia.it/), Milan 🇮🇹 · *2016–2017*
-  `<br/>`Credit-risk & scoring models — ML, VaR, Expected Loss, LGD, EAD.
+  <br/>Credit-risk & scoring models — ML, VaR, Expected Loss, LGD, EAD.
 
 ---
 
@@ -103,14 +103,14 @@ A few private builds — explore them live on [**my website**](https://danielera
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-`<br/>`
+<br/>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-`<br/>`
+<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
