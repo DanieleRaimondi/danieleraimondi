@@ -122,8 +122,8 @@ A few private builds — explore them live on [**my website**](https://danielera
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanieleRaimondi&show_icons=true&hide_border=true&title_color=1D5DC9&icon_color=FF1E9D&text_color=808080&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact&hide_border=true&title_color=1D5DC9&text_color=808080&bg_color=00000000" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanieleRaimondi&show_icons=true&hide_border=true&title_color=1D5DC9&icon_color=FF1E9D&text_color=808080&bg_color=00000000" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&title_color=1D5DC9&text_color=808080&bg_color=00000000" />
 </p>
 
 ---
