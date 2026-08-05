@@ -34,15 +34,15 @@ Deep expertise in **AI systems, Machine Learning and quantitative finance**, whe
 
 International stages, from data communities to institutions.
 
-| Year      | Stage                                                                                  | Where                         |
-| --------- | -------------------------------------------------------------------------------------- | ----------------------------- |
-| 🏛️ 2026 | **Camera dei Deputati** — AI platform for public-policy decisions               | Rome 🇮🇹                     |
-| 🇬🇧 2026 | **PyData London** — LLM pipelines at scale                                      | London                        |
-| 🇨🇭 2026 | **Swiss Data Science Conference** — applied AI impact                           | Zurich                        |
-| 🇵🇱 2026 | **EuroSciPy Kraków** — production-ready open-source AI *(2 talks, upcoming)* | Kraków                       |
-| 🌍 2025   | **EIC Summit** — AI & publishing innovation                                     | Barcelona · Paris · Houston |
-| 🇵🇱 2024 | **EuroSciPy** — semantic retrieval with Qdrant & Specter2                       | Szczecin                      |
-| 🇮🇹 2024 | **BiDigital** — data-science models for Bitcoin                                 | Biella                        |
+| Year      | Stage                                                            | Where                         |
+| --------- | ---------------------------------------------------------------- | ----------------------------- |
+| 🇵🇱 2026 | **EuroSciPy Kraków** — production-ready open-source AI *(2 talks)* | Kraków                        |
+| 🏛️ 2026 | **Camera dei Deputati** — AI platform for public-policy decisions | Rome 🇮🇹                     |
+| 🇬🇧 2026 | **PyData London** — LLM pipelines at scale                        | London                        |
+| 🇨🇭 2026 | **Swiss Data Science Conference** — applied AI impact             | Zurich                        |
+| 🌍 2025   | **EIC Summit** — AI & publishing innovation                       | Barcelona · Paris · Houston |
+| 🇵🇱 2024 | **EuroSciPy** — semantic retrieval with Qdrant & Specter2         | Szczecin                      |
+| 🇮🇹 2024 | **BiDigital** — data-science models for Bitcoin                   | Biella                        |
 
 ---
 
@@ -84,13 +84,13 @@ All at the [University of Milan-Bicocca](https://www.unimib.it/) 🇮🇹
 
 A few private builds — explore them live on [**my website**](https://danieleraimondi.github.io/). 🔒
 
-| Project                               | Stack & idea                                                                                                                                                     |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🤖**AlphaQuants**               | Applied AI for quantitative finance — the AI Financial Advisor at[alphaquants.net](https://alphaquants.net) (Next.js 15, streaming LLM analysis, tiered insights). |
-| 🪞**AI Twin**                   | A RAG chatbot digital twin that answers about my work — live on my site (streaming, vector retrieval, Vercel KV).                                               |
-| 🎱**Computer Vision for Sport** | Billiards ball-trajectory reconstruction with classical CV — color masking, homography, Kalman + Hungarian tracking.                                            |
-| 🧩**Agentic AI**                | Hands-on notebooks building agents with LangGraph + local Granite/Ollama: ReAct, ToolRAG, Plan-Solve, eval, observability & security.                            |
-| 💼**Portfolio Management**      | Personal wealth tracker & Streamlit dashboard (yfinance, CoinGecko, FX) with equity line, allocation & alerts                                                    |
+| Project                            | Stack & idea                                                                                                                                                       |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🤖 **AlphaQuants**                 | Applied AI for quantitative finance — the AI Financial Advisor at [alphaquants.net](https://alphaquants.net) (Next.js 15, streaming LLM analysis, tiered insights). |
+| 🪞 **AI Twin**                     | A RAG chatbot digital twin that answers about my work — live on my site (streaming, vector retrieval, Vercel KV).                                                   |
+| 🎱 **Computer Vision for Sport**   | Billiards ball-trajectory reconstruction with classical CV — color masking, homography, Kalman + Hungarian tracking.                                                |
+| 🧩 **Agentic AI**                  | Hands-on notebooks building agents with LangGraph + local Granite/Ollama: ReAct, ToolRAG, Plan-Solve, eval, observability & security.                               |
+| 💼 **Portfolio Management**        | Personal wealth tracker & Streamlit dashboard (yfinance, CoinGecko, FX) with equity line, allocation & alerts.                                                      |
 
 ---
 
