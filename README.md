@@ -130,6 +130,8 @@ A few private builds — explore them live on [**my website**](https://danielera
 
 ## 📖 Writing
 
+📄 **[SCALE: Scientific Concept Aggregation via LLMs and Embeddings](https://arxiv.org/abs/2608.07254)** *(2026)* — arXiv preprint, co-authored with Feichi Lu, Oliver Grun, Mariia Eremina & Andrea Perlato at MDPI. Extends the OpenAlex taxonomy with 113,892 fine-grained scientific Concepts via SPECTER2 embeddings, LLM-based classification & Leiden graph clustering — deployed in production tagging ~2M papers.
+
 📕 **[L&#39;AI spiegata a chi deve decidere](https://danieleraimondi.github.io/)** *(2026)* — a clear, jargon-free essay on AI for executives, managers and policymakers: what it really is, what it can and can't do, and how to govern it. Free to read online. 🇮🇹
 
 ---
