@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://danieleraimondi.github.io/"><img src="https://img.shields.io/badge/Website-1D5DC9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://danieleraimondi.com/"><img src="https://img.shields.io/badge/Website-1D5DC9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://it.linkedin.com/in/danieleraimondi92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/danieleraimondi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.kaggle.com/danieleraimondi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -21,7 +21,7 @@
 
 ## 🧠 About me
 
-Senior Data Scientist with **10 years** taking Data Science, AI, LLM and GenAI systems from prototype to production. I'm **Tech Lead** of a cross-functional Data Intelligence team in Basel 🇨🇭, and an international speaker — from **PyData London** to the **Italian Parliament**.
+Senior Data Scientist and independent AI consultant with **10 years** taking Data Science, AI, LLM and GenAI systems from prototype to production. I'm **Tech Lead** of a cross-functional Data Intelligence team in Basel 🇨🇭, and an international speaker — from **PyData London** to the **Italian Parliament**.
 
 Deep expertise in **AI systems, Machine Learning and quantitative finance**, where scientific depth meets quantitative rigor. Former **Italian National Team** athlete — I bring the same high-performance mindset to shipping AI. ⚡
 
@@ -35,6 +35,7 @@ International stages, from data communities to institutions.
 
 | Year      | Stage                                                            | Where                         |
 | --------- | ---------------------------------------------------------------- | ----------------------------- |
+| 🇮🇹 2026 | **EIC Summit Milan** — international summit series | Milan                         |
 | 🇵🇱 2026 | **EuroSciPy Kraków** — production-ready open-source AI *(2 talks)* | Kraków                        |
 | 🏛️ 2026 | **Camera dei Deputati** — AI platform for public-policy decisions | Rome 🇮🇹                     |
 | 🇬🇧 2026 | **PyData London** — LLM pipelines at scale                        | London                        |
@@ -81,7 +82,7 @@ All at the [University of Milan-Bicocca](https://www.unimib.it/) 🇮🇹
 
 ## 🧪 Selected Work
 
-A few private builds — explore them live on [**my website**](https://danieleraimondi.github.io/). 🔒
+A few private builds — explore them live on [**my website**](https://danieleraimondi.com/). 🔒
 
 | Project                            | Stack & idea                                                                                                                                                       |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -127,6 +128,8 @@ A few private builds — explore them live on [**my website**](https://danielera
 ---
 
 ## 📖 Writing
+
+📄 **[MATCH: Multi-stage Article Tagging to Concept Hierarchies](https://arxiv.org/abs/2610.25948)** *(2026)* — arXiv preprint, same team. Tags articles with SCALE Concepts via multi-view embedding retrieval, taxonomy-aware filtering and LLM reranking — 81.5% precision self-hosted (83.3% via API) in a blind evaluation with 22 experts, running in production on 2M+ scientific publications.
 
 📄 **[SCALE: Scientific Concept Aggregation via LLMs and Embeddings](https://arxiv.org/abs/2608.07254)** *(2026)* — arXiv preprint, co-authored with Feichi Lu, Oliver Grun, Mariia Eremina & Andrea Perlato. Extends the OpenAlex taxonomy with 113,892 fine-grained scientific Concepts via SPECTER2 embeddings, LLM-based classification & Leiden graph clustering — deployed in production tagging ~2M papers.
 
