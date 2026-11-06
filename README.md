@@ -121,6 +121,14 @@ A few private builds — explore them live on [**my website**](https://danielera
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanieleRaimondi/danieleraimondi/profile-assets/contribution-flow-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanieleRaimondi/danieleraimondi/profile-assets/contribution-flow-light.svg" />
+    <img width="100%" alt="Contribution flow — a magenta trail moving through my GitHub contributions, in shades of blue." src="https://raw.githubusercontent.com/DanieleRaimondi/danieleraimondi/profile-assets/contribution-flow-light.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanieleRaimondi&show_icons=true&hide_border=true&title_color=1D5DC9&icon_color=FF1E9D&text_color=808080&bg_color=00000000" />
   <img height="170" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&title_color=1D5DC9&text_color=808080&bg_color=00000000" />
 </p>

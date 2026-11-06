@@ -1,0 +1,66 @@
+name: Update contribution flow
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/contribution-flow.yml
+      - scripts/generate_contributions.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-flow
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'DanieleRaimondi/danieleraimondi'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile sources
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Generate original animation from real contributions
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/generate_contributions.py --username "$PROFILE_USER"
+
+      - name: Publish SVGs to the assets branch
+        env:
+          ASSETS_BRANCH: profile-assets
+        run: |
+          set -euo pipefail
+          publish_dir="$(mktemp -d)"
+
+          if git ls-remote --exit-code --heads origin "$ASSETS_BRANCH" > /dev/null; then
+            git fetch origin "$ASSETS_BRANCH"
+            git worktree add --detach "$publish_dir" FETCH_HEAD
+          else
+            status=$?
+            if [ "$status" -ne 2 ]; then
+              exit "$status"
+            fi
+            git worktree add --detach "$publish_dir" HEAD
+            git -C "$publish_dir" switch --orphan "$ASSETS_BRANCH"
+          fi
+
+          cp dist/contribution-flow-light.svg dist/contribution-flow-dark.svg "$publish_dir/"
+          git -C "$publish_dir" add contribution-flow-light.svg contribution-flow-dark.svg
+
+          if git -C "$publish_dir" diff --cached --quiet; then
+            echo "Contribution images are already up to date."
+            exit 0
+          fi
+
+          git -C "$publish_dir" config user.name "github-actions[bot]"
+          git -C "$publish_dir" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$publish_dir" commit -m "Update contribution flow"
+          assets_commit="$(git -C "$publish_dir" rev-parse HEAD)"
+          git push origin "$assets_commit:refs/heads/$ASSETS_BRANCH"
