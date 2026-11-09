@@ -13,8 +13,6 @@
   <a href="https://it.linkedin.com/in/danieleraimondi92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/danieleraimondi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.kaggle.com/danieleraimondi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=DanieleRaimondi&style=flat-square&color=1D5DC9" alt="profile views" />
 </p>
 
 ---
@@ -48,7 +46,7 @@ International stages, from data communities to institutions.
 
 ## 💼 Experience
 
-- 📊 **Senior Data Scientist** @ an international scientific publisher, Basel 🇨🇭 · *2023–present*
+- 📊 **Senior Data Scientist** · International scientific publisher, Basel 🇨🇭 · *2023–present*
   <br/>Own roadmap & delivery of ML/LLM products: multimillion-record semantic tagging, ontology-based graph clustering, production pipelines with Azure OpenAI, Qdrant & Prefect.
 - 📈 **Lead Data Scientist** @ [Esselunga](https://www.esselunga.it/), Milan 🇮🇹 · *2017–2023*
   <br/>Data science across a multi-billion-euro retailer: **+3% revenue & margin**, **−20% churn** on 6M+ customers, **+15% CLV**, **90%+** workflow automation.
@@ -75,8 +73,8 @@ All at the [University of Milan-Bicocca](https://www.unimib.it/) 🇮🇹
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [**Bitcoin DataScience** ₿](https://github.com/DanieleRaimondi/bitcoin_datascience)                 | Modeling BTC market dynamics — ThermoModel, halving cycles, MVRV, Metcalfe & on-chain valuation.                    |
 | [**Music Classifier** 🎵](https://github.com/DanieleRaimondi/MusicClassifier)                        | Handcrafted 641-D audio embeddings, SHAP-based genre classification & similarity search on an Italodance/Trance set. |
-| [**Sentiment Analysis Bitcoin** 🗞️](https://github.com/DanieleRaimondi/Sentiment_Analysis_Bitcoin) | NLP pipeline aggregating social & news sentiment to anticipate BTC trend reversals.                                  |
-| [**Betting Exchange Scrapers** ⚽](https://github.com/DanieleRaimondi/Betting_Livescore_Scrapers)    | Real-time scraping of betting-exchange odds + live football stats for sports analytics.                              |
+| [**Bitcoin SentiMeter** 🗞️](https://github.com/DanieleRaimondi/Sentiment_Analysis_Bitcoin)         | Slides: Twitter sentiment (TextBlob & VADER) compared with the BTC price. Master's project, 2020.                    |
+| [**Bets Insights** ⚽](https://github.com/DanieleRaimondi/Betting_Livescore_Scrapers)                | Slides: how in-play events move football betting odds. Master's group project, 2020.                                 |
 
 ---
 
@@ -126,11 +124,6 @@ A few private builds — explore them live on [**my website**](https://danielera
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanieleRaimondi/danieleraimondi/profile-assets/contribution-flow-light.svg" />
     <img width="100%" alt="Contribution flow — a magenta trail moving through my GitHub contributions, in shades of blue." src="https://raw.githubusercontent.com/DanieleRaimondi/danieleraimondi/profile-assets/contribution-flow-light.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanieleRaimondi&show_icons=true&hide_border=true&title_color=1D5DC9&icon_color=FF1E9D&text_color=808080&bg_color=00000000" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanieleRaimondi&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&title_color=1D5DC9&text_color=808080&bg_color=00000000" />
 </p>
 
 ---
