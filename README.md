@@ -74,7 +74,7 @@ All at the [University of Milan-Bicocca](https://www.unimib.it/) 🇮🇹
 | [**Bitcoin DataScience** ₿](https://github.com/DanieleRaimondi/bitcoin_datascience)                 | Modeling BTC market dynamics — ThermoModel, halving cycles, MVRV, Metcalfe & on-chain valuation.                    |
 | [**Music Classifier** 🎵](https://github.com/DanieleRaimondi/MusicClassifier)                        | Handcrafted 641-D audio embeddings, SHAP-based genre classification & similarity search on an Italodance/Trance set. |
 | [**Bitcoin SentiMeter** 🗞️](https://github.com/DanieleRaimondi/Sentiment_Analysis_Bitcoin)         | Slides: Twitter sentiment (TextBlob & VADER) compared with the BTC price. Master's project, 2020.                    |
-| [**Bets Insights** ⚽](https://github.com/DanieleRaimondi/Betting_Livescore_Scrapers)                | Slides: how in-play events move football betting odds. Master's group project, 2020.                                 |
+| [**Bets Insights** ⚽](https://github.com/DanieleRaimondi/Bets_Insights)                              | Slides: how in-play events move football betting odds. Master's group project, 2020.                                 |
 
 ---
 
